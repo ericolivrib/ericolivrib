@@ -6,7 +6,7 @@
   <ul>
     <li>🎓 Estudante de graduação em Sistemas para Internet na UFSM.</li>
     <li>🍃 Desenvolvedor Web Backend com ênfase na construção de APIs de arquitetura REST.</li>
-    <li>🧠 Em constante evolução e sempre em busca de novas experiências e conhecimentos.</li>
+    <li>🧠 Em constante evolução e sempre em busca conhecimento e de novas experiências.</li>
   </ul>
 </p>
 
