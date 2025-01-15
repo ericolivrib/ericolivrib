@@ -4,8 +4,8 @@
 
 <p align="left">
   <ul>
-    <li>🎓 Estudante de graduação em Sistemas para Internet na UFSM.</li>
-    <li>🍃 Desenvolvedor Web com principal foco na construção de APIs de arquitetura REST.</li>
+    <li>🎓 Graduado em Sistemas para Internet pela UFSM.</li>
+    <li>🍃 Desenvolvedor Web com principal foco na construção de REST APis.</li>
     <li>🧠 Em constante evolução e sempre em busca de conhecimento.</li>
   </ul>
 </p>
