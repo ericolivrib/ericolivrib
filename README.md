@@ -36,22 +36,18 @@
 
 ###
 
-<h2 align="left">Tecnologias Secundárias</h2>
+<h2 align="left">Outras tecnologias</h2>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="rabbitmq logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
 </div>
