@@ -36,7 +36,7 @@
 
 ###
 
-<h2 align="left">Outras tecnologias</h2>
+<h2 align="left">Outras Tecnologias</h2>
 
 ###
 
